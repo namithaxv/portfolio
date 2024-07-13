@@ -24,7 +24,7 @@ BS, Math-Economics - University of California, San Diego (_June 2026_)
 
 
 ## Projects
-### Geographical Impacts of Power Outages (United States)
+### <u>Geographical Impacts of Power Outages (United States)</u>
   [Website](https://jetyue04.github.io/Power_Outages_Impact/)
   
 An in depth analysis of causes of major power outages in the United States and their impacts on different population metrics using **Python**.
