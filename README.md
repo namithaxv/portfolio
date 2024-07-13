@@ -32,7 +32,7 @@ An in depth analysis of causes of major power outages in the United States and t
 ![Outages](/assets/outages.jpg)
 
 
-### Portfolio and Risk Management + Stock Analysis (JPMC)
+### <ins> Portfolio and Risk Management + Stock Analysis (JPMC) </ins>
 [Link](https://github.com/namithaxv/FinancialModelling/tree/main)
 
 An analysis of the JPM stock, tests for stationarity, and a portfolio/risk management analysis for AAPL/GOOG/MSFT.
