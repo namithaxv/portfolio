@@ -4,7 +4,7 @@
 
 ## Education
 - BS, Math-Economics (Data Science Minor) | University of California, San Diego (_June 2026_)
--   
+
 ## Work Experience
 **Finance Analytics Intern @ Colgate-Palmolive (_June 2024 - Present_)**
 - big impact 1
