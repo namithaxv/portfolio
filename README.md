@@ -3,7 +3,7 @@
 #### Technical Skills: Python, JAVA, Snowflake, Domo, MATLAB, SQL
 
 ## Education
-- BS, Math-Economics [University of California, San Diego (_June 2026_)]
+BS, Math-Economics - University of California, San Diego (_June 2026_)
 
 ## Work Experience
 **Finance Analytics Intern @ Colgate-Palmolive (_June 2024 - Present_)**
@@ -25,8 +25,9 @@
 
 ## Projects
 ### Geographical Impacts of Power Outages (United States)
-  [Publication](https://jetyue04.github.io/Power_Outages_Impact/)
+  [Website](https://jetyue04.github.io/Power_Outages_Impact/)
 
 An in depth analysis of causes of major power outages in the United States and their impacts on different population metrics using **Python**.
+
 ![Outages](/assets/outages.jpg)
 
