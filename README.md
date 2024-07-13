@@ -28,5 +28,5 @@
   [Publication] {https://jetyue04.github.io/Power_Outages_Impact/}
 
 An in depth analysis of causes of major power outages in the United States and their impacts on different population metrics using **Python**.
-(/assets/outages.jpg)
+![Outages](/assets/outages.jpg)
 
